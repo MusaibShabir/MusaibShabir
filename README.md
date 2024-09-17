@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a final-year CSE student at the University of Kashmir. <br>I'm passionate about building things and exploring the endless possibilities of technology. <br>My current interests lie in Android development, Python programming, and the fascinating world of Machine Learning.<br>
+👋 Hi there! I'm a final-year CSE student at the University of Kashmir. <br> 💼 I'm passionate about building things and exploring the endless possibilities of technology. <br> 🧑🏻‍💻 My current interests lie in Android development, Python programming, and the fascinating world of Machine Learning.<br>
 
 
 ## 🌐 Socials:
