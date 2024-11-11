@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi there! I'm a final-year CSE student at the University of Kashmir. <br> 💼 I'm passionate about building things and exploring the endless possibilities of technology. <br> 🧑🏻‍💻 My current interests lie in Android development, Python programming, and the fascinating world of Machine Learning.<br>
+👋 Hi there! I’m a Computer Science Engineering graduate from the University of Kashmir.  
+💼 I’m passionate about creating impactful tech solutions and diving into the vast world of possibilities that technology offers.  
+🧑🏻‍💻 Currently, I’m focused on mastering modern Android development with Kotlin and exploring the cross-platform potential of Kotlin Multiplatform. Excited to learn, build, and make a difference!
 
 
 ## 🌐 Socials:
