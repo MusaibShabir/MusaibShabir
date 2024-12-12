@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MusaibShabir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MusaibShabir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaibShabir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MusaibShabir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
